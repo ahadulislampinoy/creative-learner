@@ -1,0 +1,48 @@
+@media all and (min-width: 768px) and (max-width: 991px) {
+  .pricing-onlinespach1 {
+    margin: 5px 0 !important;
+  }
+  .blog-desc {
+    margin-top: 35px;
+  }
+}
+@media all and (max-width: 767px) {
+  .banner-input {
+    width: 80% !important;
+  }
+  .contact-details {
+    padding: 30px 0 0 10px !important;
+  }
+  .footer-first-part {
+    padding-left: 6px;
+  }
+  .banner-input_button {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media all and (max-width: 487px) {
+  .banner-input {
+    width: 70% !important;
+  }
+}
+@media all and (max-width: 991px) {
+  .feature-img-parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .pricing-onlinespach2,
+  .pricing-onlinespach3 {
+    margin: 5px 0 !important;
+  }
+  .send-msg {
+    padding: 12px !important;
+  }
+  .navbar {
+    border: 1px solid #c1c1c1;
+  }
+  .banner {
+    padding-top: 35px;
+  }
+}
